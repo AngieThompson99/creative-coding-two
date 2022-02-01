@@ -8,5 +8,6 @@ function drawGrid(numXGrid, numYGrid){
     rect(i *  xSpacing, j * ySpacing, xSpacing, ySpacing);// giving 4 parametres
         }
     }
+
     return "grid drawn";
-}
+}// end of function

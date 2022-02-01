@@ -1,21 +1,6 @@
-///let angel; // declaring a variable, //defines variable by let
-//angel = 22; // assigning a variable
-//let sonia = 21; // declaring and assigning a variable
-
-//function whatAge(){ // declaring a function
-   // console.log("they're age is");
-//}
-//whatAge(3); // calling a function // function with parametres
-
-
 let showGrid = true; // BOOLEAN
-
 let numXGrid = 10;
 let numYGrid = 10;
-
-
-
-
 
 function setup(){ // gets called once ,, defines function by function
 //console.log("test");
